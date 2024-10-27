@@ -47,7 +47,7 @@ PowerBI
 # 📸 Data Visualisation
 
 ![super1]
-(https://github.com/user-attachments/files/17533550/sales.dashboard.powerbi.pdf)
+(https://github.com/user-attachments/assets/25e77d20-6928-458e-a449-4429f89c5dfd)
 
 ![super2](https://github.com/harshitgahlaut/SuperStore_Sales_Dashboard_PowerBI/assets/142779836/9bec9761-6b89-4772-ba61-40ad5180346f)
 
