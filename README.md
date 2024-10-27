@@ -6,7 +6,8 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 # Tech Stack Used
 
-![Untitled](https://github.com/harshitgahlaut/Madhav_E_Commerce_Sales_Dashboard_PowerBI/assets/142779836/cebb1251-93c5-46b3-8d9c-4957e1d844cf)
+![powerbi logo](https://github.com/user-attachments/assets/64e6f140-14fd-4ec0-a03c-e2b22be160ca)
+
 
 PowerBI
 
