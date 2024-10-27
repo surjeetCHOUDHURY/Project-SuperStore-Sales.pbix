@@ -1,6 +1,6 @@
-# 🚚 "SuperStore" Sales Dashboard
+#  "SuperStore" Sales Dashboard
 
-# 💡 Project Description
+#  Project Description
 
 The dashboard utilizes sales data spanning two years to offer insightful visualizations and predictive tools, enabling the identification of sales trends.
 
@@ -18,7 +18,7 @@ PowerBI
 - Data Visualization
 
 
-# 📅🔍 Project Approach
+# 🔍 Project Approach
 
 - Connecting with datasources and cleaning data in Power Query.
 - Data Cleaning in Power Query.
