@@ -48,7 +48,7 @@ PowerBI
 
 ![sales dashboard powerbi](https://github.com/user-attachments/assets/322641d1-8be8-4054-9273-f570a84a3ce7)
 
-![super2](https://github.com/harshitgahlaut/SuperStore_Sales_Dashboard_PowerBI/assets/142779836/9bec9761-6b89-4772-ba61-40ad5180346f)
+[sales forecasting ](https://github.com/user-attachments/assets/184a4753-cddd-452e-90cd-d204ff1a94a6)
 
 #  **Project Learnings:**
 -  Created an interactive dashboard for online sales data tracking and analysis.
