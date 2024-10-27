@@ -45,7 +45,7 @@ PowerBI
 
 💰 **Profit Peaks:** March, October, and December stand out as our most profitable months, emphasizing the importance of strategic planning during these periods.
 
-# 📸 Data Visualisation
+#  Data Visualisation
 
 ![sales dashboard powerbi](https://github.com/user-attachments/assets/322641d1-8be8-4054-9273-f570a84a3ce7)
 
