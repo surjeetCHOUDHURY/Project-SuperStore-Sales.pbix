@@ -50,11 +50,11 @@ PowerBI
 
 ![super2](https://github.com/harshitgahlaut/SuperStore_Sales_Dashboard_PowerBI/assets/142779836/9bec9761-6b89-4772-ba61-40ad5180346f)
 
-# 📊 **Project Learnings:**
-- 📈 Created an interactive dashboard for online sales data tracking and analysis.
-- 🔍 Utilized complex parameters for in-depth analysis through worksheets, enhancing customization via filters and slicers.
-- 🔄 Established connections, incorporated new tables, and applied calculations to manipulate data, facilitating user-driven parameters for visualizations.
-- 📊 Employed various customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts,map and slicers for comprehensive insights.
+#  **Project Learnings:**
+-  Created an interactive dashboard for online sales data tracking and analysis.
+-  Utilized complex parameters for in-depth analysis through worksheets, enhancing customization via filters and slicers.
+-  Established connections, incorporated new tables, and applied calculations to manipulate data, facilitating user-driven parameters for visualizations.
+-  Employed various customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts,map and slicers for comprehensive insights.
 
   
 
