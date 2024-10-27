@@ -55,7 +55,8 @@ PowerBI
 - 🔍 Utilized complex parameters for in-depth analysis through worksheets, enhancing customization via filters and slicers.
 - 🔄 Established connections, incorporated new tables, and applied calculations to manipulate data, facilitating user-driven parameters for visualizations.
 - 📊 Employed various customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts,map and slicers for comprehensive insights.
-- 🎯 At the end Sales forecasting
+- Power BI Dashboard
+- (https://github.com/user-attachments/files/17533550/sales.dashboard.powerbi.pdf)
 
 # End
 Thank you for watching my project
