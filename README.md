@@ -1,8 +1,8 @@
 #  "SuperStore" Sales Dashboard
 
-#  Project Description
+#  Project Objective 
 
-The dashboard utilizes sales data spanning two years to offer insightful visualizations and predictive tools, enabling the identification of sales trends.
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 # Tech Stack Used
 
@@ -10,7 +10,7 @@ The dashboard utilizes sales data spanning two years to offer insightful visuali
 
 PowerBI
 
-# 🛠️ Skills showcased in this Project
+# Skills showcased in these project
 
 - Data Extraction
 - Data Cleaning
@@ -18,7 +18,7 @@ PowerBI
 - Data Visualization
 
 
-# 🔍 Project Approach
+#  Project Approach
 
 - Connecting with datasources and cleaning data in Power Query.
 - Data Cleaning in Power Query.
@@ -26,7 +26,7 @@ PowerBI
 - Designing interactive dashboard for visualisation.
 - Sales Forecasting
 
-#💡 Key Insights
+# Key Insights
 
 💳 **Sales by Payment Mode:** Cash on Delivery (COD) continues to lead the pack, closely trailed by online transactions and card payments.
 
@@ -55,7 +55,7 @@ PowerBI
 - 🔍 Utilized complex parameters for in-depth analysis through worksheets, enhancing customization via filters and slicers.
 - 🔄 Established connections, incorporated new tables, and applied calculations to manipulate data, facilitating user-driven parameters for visualizations.
 - 📊 Employed various customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts,map and slicers for comprehensive insights.
-- 🎯 Sales Forecasting
+- 🎯 At the end Sales forecasting
 
 # End
 Thank you for watching my project
