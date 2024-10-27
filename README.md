@@ -46,7 +46,8 @@ PowerBI
 
 # 📸 Data Visualisation
 
-![super1](https://github.com/harshitgahlaut/SuperStore_Sales_Dashboard_PowerBI/assets/142779836/1e33a282-7e92-4fe4-9b21-b71ab1bf7f3d)
+![super1]
+(https://github.com/user-attachments/files/17533550/sales.dashboard.powerbi.pdf)
 
 ![super2](https://github.com/harshitgahlaut/SuperStore_Sales_Dashboard_PowerBI/assets/142779836/9bec9761-6b89-4772-ba61-40ad5180346f)
 
@@ -55,8 +56,8 @@ PowerBI
 - 🔍 Utilized complex parameters for in-depth analysis through worksheets, enhancing customization via filters and slicers.
 - 🔄 Established connections, incorporated new tables, and applied calculations to manipulate data, facilitating user-driven parameters for visualizations.
 - 📊 Employed various customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts,map and slicers for comprehensive insights.
-- Power BI Dashboard
-- (https://github.com/user-attachments/files/17533550/sales.dashboard.powerbi.pdf)
+
+  
 
 # End
 Thank you for watching my project
